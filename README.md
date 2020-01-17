@@ -1,7 +1,8 @@
 # sick-tac-toe
 2 player iOS game with Artificial Intelligence: Player vs AI, Swift 3  
 
-<img width="377" alt="Screen Shot 2020-01-17 at 1 13 28 PM" src="https://user-images.githubusercontent.com/15815335/72637932-52e25700-3930-11ea-838b-040dc6d05249.png">
+<img width="341" alt="Screen Shot 2020-01-17 at 1 13 28 PM" src="https://user-images.githubusercontent.com/15815335/72638191-ecaa0400-3930-11ea-8a26-d7e9427efaed.png">
+
 
 <img width="356" alt="Screen Shot 2020-01-17 at 1 13 49 PM" src="https://user-images.githubusercontent.com/15815335/72637955-5d045580-3930-11ea-82c4-4b0258d6119b.png">
 
